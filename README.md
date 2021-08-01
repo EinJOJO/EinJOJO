@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
  - 📫 Contact me on:  
    - 👻Discord: `EinJojo#2972`
-   - 🐤 Twitter: - [`@ein_jojo`](https://twitter.com/ein_jojo)
+   - 🐤 Twitter: [`@ein_jojo`](https://twitter.com/ein_jojo)
  
  
