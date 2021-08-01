@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **EinJOJO/EinJOJO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### **Hello there 👋** 
+> EinJOJO, 2006
+> -Developer and Cook🍕
+
+
+
+ - 📫 Contact me on:  
+   - 👻Discord: `EinJojo#2972`
+   - 🐤 Twitter: - [`@ein_jojo`](https://twitter.com/ein_jojo)
+ 
+ 
