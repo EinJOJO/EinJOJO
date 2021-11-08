@@ -3,7 +3,7 @@
 ## Squidgames Todo:
 
  - [ ] Permissions
- - [ ] Tab Chat Prefix Modul
+ - [x] Tab Chat Prefix Modul
  - [ ] MOTD
  - [ ] Tabliste
  - [x] Wartung
