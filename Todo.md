@@ -2,7 +2,8 @@
 
 ## Squidgames Todo:
 
- - [ ] Permission SYSTEM
+ - [ ] Permissions
+ - [ ] Tab Chat Prefix Modul
  - [ ] MOTD
  - [ ] Tabliste
  - [x] Wartung
@@ -13,7 +14,18 @@ Spieler Hinzufügen
 
     /cloud proxy Proxy whitelist add <Player>
     
-An bzw aus machen
+Wartung an bzw aus machen
 
     /cloud edit group Proxy maintenance <boolean>
 
+### Permissions
+
+ - [ ] Inhaber
+ - [ ] Admin
+ - [ ] Developer
+ - [ ] Builder
+ - [ ] T-Builder
+ - [ ] Moderator
+ - [ ] Supporter
+ - [ ] T-Supporter
+ - [ ] Sonstige Ränge
