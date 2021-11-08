@@ -4,7 +4,7 @@
 
  - [ ] Permissions
  - [x] Tab Chat Prefix Modul
- - [ ] MOTD
+ - [x] MOTD
  - [ ] Tabliste
  - [x] Wartung
 
