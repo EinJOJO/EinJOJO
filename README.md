@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
  - 📫 Contact me on:  
-   - 👻Discord: `EinJojo#2972`
+   - 👻Discord: `EinJojo#1338`
    - 🐤 Twitter: [`@ein_jojo`](https://twitter.com/ein_jojo)
  
  
