@@ -26,3 +26,6 @@ Here are some ideas to get you started:
    - 🐤 Twitter: [`@ein_jojo`](https://twitter.com/ein_jojo)
  
  
+
+
+![stats](img-src=https://github-readme-stats.vercel.app/api?username={Ein_Jojo})
