@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### **Hello there 👋** 
 > EinJOJO, 2006
-> -Developer and Cook🍕
+> -Developer and Cook
 
 
 
