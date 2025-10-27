@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 ### **Hello there 👋** 
 > EinJOJO, 2006
-> -Developer and Cook
-
-
+> Looking for becoming a minecraft development expert
 
  - 📫 Contact me on:  
    - 👻Discord: `einjojo`
-   - 🐤 Twitter: [`@ein_jojo`](https://twitter.com/ein_jojo)
  
  
 
